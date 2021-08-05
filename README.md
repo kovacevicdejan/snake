@@ -1,2 +1,2 @@
 # snake
-A simple implementation of a snake game, done in Java
+A simple implementation of a Snake game, done in Java
