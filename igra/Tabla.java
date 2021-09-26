@@ -2,12 +2,9 @@ package igra;
 
 import java.awt.Canvas;
 import java.awt.Color;
-import java.awt.Font;
 import java.awt.Graphics;
-import java.awt.Label;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-
 import igra.Pozicija.Smer;
 
 public class Tabla extends Canvas implements Runnable {
