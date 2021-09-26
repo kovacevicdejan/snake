@@ -3,7 +3,6 @@ package igra;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.util.ArrayList;
-
 import igra.Pozicija.Smer;
 
 public class Zmija extends Figura {
