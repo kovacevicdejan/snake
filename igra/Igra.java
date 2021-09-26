@@ -16,12 +16,9 @@ import java.awt.MenuItem;
 import java.awt.MenuShortcut;
 import java.awt.Panel;
 import java.awt.TextField;
-import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-
-import igra.Pozicija.Smer;
 
 public class Igra extends Frame {
 	
