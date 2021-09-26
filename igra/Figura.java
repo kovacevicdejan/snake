@@ -3,8 +3,6 @@ package igra;
 import java.awt.Color;
 import java.awt.Graphics;
 
-import igra.Pozicija.Smer;
-
 public abstract class Figura {
 
 	protected Pozicija pozicijaGlave;
