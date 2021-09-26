@@ -2,7 +2,6 @@ package igra;
 
 import java.awt.Color;
 import java.awt.Graphics;
-
 import igra.Pozicija.Smer;
 
 public class Muva extends Figura {
